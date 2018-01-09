@@ -2,6 +2,7 @@
 # Place this file under /usr/share/check_mk/checks/ to make Check_MK use it.
 # If you want to use the output of the Check_MK agent make sure to name this file after the correct section.
 # For further information check out https://mathias-kettner.de/checkmk_devel_agentbased.html.
+# For developing SNMP checks have a look at https://mathias-kettner.de/checkmk_devel_snmpbased.html.
 
 # possible Check_MK status codes
 CHECKMK_OK = 0
